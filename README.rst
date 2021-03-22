@@ -176,11 +176,13 @@ You can edit the
 `data/predefined\_classes.txt <https://github.com/tzutalin/labelImg/blob/master/data/predefined_classes.txt>`__
 to load pre-defined classes  
 The list of predefined classes are:  
+
 1. dimension line  
 2. side screw hole  
 3. information box  
 4. circular hole  
 5. dimension information (text for each dimension line)  
+   box
 
 Hotkeys
 ~~~~~~~
